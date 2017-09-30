@@ -18,7 +18,7 @@ url: http://https://juancabrerait.github.io
 # How many articles do you wish to appear on the front page:
 paginate: 3
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 
 avatar: https://i.ytimg.com/vi/fsIvH8qVi7o/maxresdefault.jpg
